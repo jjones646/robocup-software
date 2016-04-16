@@ -10,3 +10,6 @@
 [submodule "external/DoCIF"]
 	path = external/DoCIF
 	url = https://github.com/jgkamat/DoCIF.git
+[submodule "external/gitslick-gist"]
+	path = external/gitslick-gist
+	url = https://gist.github.com/d80561c7fdc260bd4611d6e55057d5e4.git
